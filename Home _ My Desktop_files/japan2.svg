@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="512px" viewBox="0 0 372 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>japan</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.325973732">
+        <g id="japan" fill-rule="nonzero">
+            <g id="Group" transform="translate(134.000000, 0.000000)" fill="#3D7A94">
+                <polygon id="Shape" points="0.206 512 57.11 512 57.11 341.334 28.658 317.901 0.206 341.334"></polygon>
+                <polygon id="Shape" points="57.11 0 0.206 0 0.206 170.667 28.658 194.101 57.11 170.667"></polygon>
+            </g>
+            <g id="Group" transform="translate(0.000000, 37.000000)" fill="#6BADB4">
+                <rect id="Rectangle-path" x="134.201" y="133.667" width="56.904" height="170.667"></rect>
+                <path d="M238.362,218.148 C211.059,245.451 194.476,277.333 191.11,304.335 C218.111,300.969 249.994,284.386 277.297,257.083 C304.6,229.78 321.183,197.898 324.549,170.896 C297.547,174.261 265.664,190.844 238.362,218.148 Z" id="Shape"></path>
+                <path d="M272.96,318.577 C236.105,330.092 206.621,350.638 191.109,372.995 C216.59,382.544 252.526,382.65 289.381,371.134 C326.235,359.619 355.72,339.073 371.232,316.716 C345.753,307.167 309.816,307.063 272.96,318.577 Z" id="Shape"></path>
+                <path d="M86.954,47.481 C114.257,74.784 130.84,106.666 134.206,133.668 C107.205,130.302 75.322,113.719 48.019,86.416 C20.716,59.113 4.133,27.229 0.767,0.229 C27.769,3.594 59.651,20.178 86.954,47.481 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
